@@ -1,7 +1,7 @@
 # recaptcha-demo
 
 > A demo for the "integration of Google reCaptcha in your nuxt.js project" article on my blog.
-> You can find the full article here (Link to article goes here when I publish)
+> You can find the full article here (https://the-blog.hashnode.dev/integrate-google-recaptcha-into-your-nuxtjs-project)
 
 ## Build Setup
 
